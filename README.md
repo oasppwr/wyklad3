@@ -1,2 +1,6 @@
 # wyklad3
-Architektura mikroserwisowa backendu
+
+slajdy: https://oasppwr.github.io/wyklad3/
+
+Mapowanie obiektowo - relacyjne
+
